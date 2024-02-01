@@ -12,15 +12,15 @@ Netflix, along with details such as - cast, directors, ratings, release year, du
 
 
 The data is available in a single csv file :
-● Show ID : The ID of the show
-● Type: Identifier - A Movie or TV Show
-● Title: Title of the Movie / Tv Show
-● Director: Director of the Movie
-● Cast: Actors involved in the movie/show
-● Country: Country where the movie/show was produced
-● Date_added: Date it was added on Netflix
-● Release_year: Actual Release year of the movie/show
-● Rating: TV Rating of the movie/show
-● Duration: Total Duration - in minutes or number of seasons
-● Listed_in: Genre
-● Description: The summary description
+1. Show ID : The ID of the show
+2. Type: Identifier - A Movie or TV Show
+3. Title: Title of the Movie / Tv Show
+4. Director: Director of the Movie
+5. Cast: Actors involved in the movie/show
+6. Country: Country where the movie/show was produced
+7. Date_added: Date it was added on Netflix
+8. Release_year: Actual Release year of the movie/show
+9. Rating: TV Rating of the movie/show
+10. Duration: Total Duration - in minutes or number of seasons
+11. Listed_in: Genre
+12. Description: The summary description
